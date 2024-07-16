@@ -83,7 +83,7 @@ The program will capture only ICMP packets.
 
 
 
-For a video tutorial, visit this link.
+
 
 
 
