@@ -40,7 +40,7 @@ This is a Python-based network packet sniffer that captures and logs network pac
 1. Run the program with root privileges:
 
     ```sh
-    sudo python sniffer.py
+    sudo python packetSniffer.py
     ```
 
 2. Follow the prompts to enter the required parameters:
