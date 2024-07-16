@@ -83,9 +83,7 @@ The program will capture only ICMP packets.
 
 
 
-## Additional Help
-
-For a video tutorial, visit [this link](https://www.linkedin.com/posts/saurav-s-0685a7234_security-awareness-activity-7153086124247142401-_7QO?utm_source=share&utm_medium=member_desktop).
+For a video tutorial, visit this link.
 
 
 
